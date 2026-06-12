@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-touch-dark-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Velvet Touch Dark Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-dark-room/) |
+| **Get License** | [Commercial Licensing for Velvet Touch Dark Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-dark-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadow dances right across your skin
+> I feel the fire before we both begin
+> A quiet corner where the world is gone
+> Just your heartbeat is all I'm focused on
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
