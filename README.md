@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-touch-dark-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Velvet Touch Dark Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-dark-room/) |
+| **Get License** | [Music Rights & Licensing for Velvet Touch Dark Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-touch-dark-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8f527c3bf0f4562287702d9bacecd6ef3daad0dc699309860f865943c1c18af4` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
